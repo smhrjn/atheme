@@ -1,0 +1,22 @@
+{
+    "name": "apdl-theme",
+    "displayName": "apdl-theme",
+    "description": "customized theme for ansys apdl",
+    "version": "0.1.0",
+    "publisher": "smhrjn",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "apdl-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/apdl-theme-color-theme.json"
+            }
+        ]
+    }
+}
