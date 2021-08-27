@@ -2,7 +2,7 @@
   "name": "atheme",
   "displayName": "atheme",
   "description": "basic theme for vscode",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "smhrjn",
   "engines": {
     "vscode": "^1.13.0"
@@ -12,11 +12,11 @@
   ],
   "contributes": {
     "themes": [
-        {
-          "label": "theme",
-          "uiTheme": "vs-dark",
-          "path": "./themes/atheme-color-theme.json"
-        }
+      {
+        "label": "theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atheme-color-theme.json"
+      }
     ]
   }
 }
