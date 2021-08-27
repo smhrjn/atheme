@@ -1,3 +1,3 @@
-# apdl-theme
+# atheme
 
-## dark theme customized for ansys apdl
+## basic dark theme

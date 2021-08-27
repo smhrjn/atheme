@@ -1,7 +1,7 @@
 {
-  "name": "apdl-theme",
-  "displayName": "apdl-theme",
-  "description": "customized theme for ansys apdl",
+  "name": "atheme",
+  "displayName": "atheme",
+  "description": "basic theme for vscode",
   "version": "0.1.1",
   "publisher": "smhrjn",
   "engines": {
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
         {
-          "label": "apdl-theme",
+          "label": "theme",
           "uiTheme": "vs-dark",
-          "path": "./themes/apdl-theme-color-theme.json"
+          "path": "./themes/atheme-color-theme.json"
         }
     ]
   }
